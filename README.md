@@ -59,7 +59,7 @@ You can find below the topics/languages I've worked with enough to consider them
 
 ### Machine Learning
 
-- FANN (C++ Library for supervised learning)
+- FANN (Fast Artifical Neural Network : C++ Library for supervised learning)
 
 # Achieved
 
