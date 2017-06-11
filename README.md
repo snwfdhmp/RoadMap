@@ -6,6 +6,13 @@ It's currently under development so you may find some bugs in the .md files and 
 
 I'm trying to get it updated as regularly as possible.
 
+## Table of contents
+
+- [Currently learning](#current)
+- [Planned learning](#incomming)
+- [Skills](#skills)
+- [List of projects achieved](#achieved)
+
 # Current
 
 You can find below the topics/languages I'm currently learning/practising.
