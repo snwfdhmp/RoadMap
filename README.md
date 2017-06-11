@@ -38,6 +38,14 @@ You can find below the topics/languages I'm plan to learn/practise soon.
 
 - OpenStack
 
+### FrontEnd
+
+- ReactNative
+
+### BackEnd
+
+- NodeJS
+
 # Skills
 
 You can find below the topics/languages I've worked with enough to consider them as skills.
