@@ -6,7 +6,7 @@ It's currently under development so you may find some bugs in the .md files and 
 
 I'm trying to get it updated as regularly as possible.
 
-## Table of contents
+# Table of contents
 
 - [Currently learning](#current)
 - [Planned learning](#incomming)
