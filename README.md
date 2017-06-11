@@ -28,7 +28,8 @@ You can find below the topics/languages I'm currently learning/practising.
 
 ### Back-end Development
 
-- Falcon API (Python)
+- Falcon (Python API design)
+- Gunicorn (Python WSGI HTTP Server)
 
 # Incomming
 
@@ -45,6 +46,7 @@ You can find below the topics/languages I'm plan to learn/practise soon.
 ### BackEnd
 
 - NodeJS
+- Flask (Python API design)
 
 # Skills
 
