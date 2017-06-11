@@ -2,7 +2,7 @@
 
 Welcome to my RoadMap !
 
-It's currently under development so you may find some bugs in the .md files.
+It's currently under development so you may find some bugs in the .md files and consider too that a lot of infos are missing.
 
 I'm trying to get it updated as regularly as possible.
 
@@ -21,6 +21,8 @@ You can find below the topics/languages I'm currently learning/practising.
 
 ### Back-end Development
 
+- Falcon API (Python)
+
 # Incomming
 
 You can find below the topics/languages I'm plan to learn/practise soon.
@@ -28,6 +30,36 @@ You can find below the topics/languages I'm plan to learn/practise soon.
 ### Cloud
 
 - OpenStack
+
+# Skills
+
+You can find below the topics/languages I've worked with enough to consider them as skills.
+
+### General
+
+- C
+- C++
+- Go
+- Perl
+- Ruby
+- Python
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Shell
+- Unix
+
+### FrontEnd
+
+- AngularJS
+- JQuery
+- Bootstrap
+
+### Machine Learning
+
+- FANN (C++ Library for supervised learning)
 
 # Achieved
 
@@ -39,7 +71,7 @@ Please note that not every repos are updated, since some projects are discontinu
 
 If you want more informations, feel free to contact me at [snwfdhmp@protonmail.com](mailto:snwfdhmp@protonmail.com)
 
-# Front-End
+## Front-End
 
 ## [LearnHub](http://learnhub.esy.es/)
 
@@ -55,7 +87,7 @@ Social education tool for Ecole Centrale de Lille
 You can take a tour by login with 'overview@github.com' / 'GitHub123'.
 Feel free to do what you want, this is the TEST server.
     
-# Back-End
+## Back-End
 
 
 ## [Duck](https://github.com/snwfdhmp/learnhub)
