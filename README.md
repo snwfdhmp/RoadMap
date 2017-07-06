@@ -17,19 +17,25 @@ I'm trying to get it updated as regularly as possible.
 
 You can find below the topics/languages I'm currently learning/practising.
 
-### Cloud
+### General
 
-- OwnCloud
+- Docker
+- High Availability Architecture Design
 
 ### Front-end Development
 
-- AngularJS
-- ReactJS
+- Angular4
 
 ### Back-end Development
 
-- Falcon (Python API design)
 - Gunicorn (Python WSGI HTTP Server)
+- NodeJS
+- Docker
+- Nginx
+
+### Data
+
+- Postgresql
 
 # Incomming
 
@@ -42,6 +48,7 @@ You can find below the topics/languages I'm plan to learn/practise soon.
 ### FrontEnd
 
 - ReactNative
+- ReactJS
 
 ### BackEnd
 
@@ -74,9 +81,17 @@ You can find below the topics/languages I've worked with enough to consider them
 - JQuery
 - Bootstrap
 
+### BackEnd
+
+- Falcon (Python API Design)
+
 ### Machine Learning
 
 - FANN (Fast Artifical Neural Network : C++ Library for supervised learning)
+
+### Cloud
+
+- OwnCloud
 
 # Achieved
 
